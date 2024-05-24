@@ -1,1 +1,1 @@
-Create a file test3.txt
+This is a test3 file
